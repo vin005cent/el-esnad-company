@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 
 
-Steps to reproduce:
+<p>Steps to reproduce:</p>\n
     1. Clone project files or pull files on your local machine using this command 
         to clone : ``git clone https://github.com/vin005cent/el-esnad-company.git``
         
