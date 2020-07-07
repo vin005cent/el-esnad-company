@@ -33,7 +33,7 @@ class UploadController extends Controller
         $img->make($image->path())
             ->resize(50,50)
             ->save($imageFullPath);
-        
+
         //10x10
         $destinationPath = public_path('/uploads/thumbnail2');
         $imageFullPath   = $destinationPath.'/'.$input['imagename'];
